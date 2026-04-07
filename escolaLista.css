@@ -1,0 +1,5 @@
+.animado {
+            height: 84vh;
+            display: grid;
+            place-items: center;
+        }
